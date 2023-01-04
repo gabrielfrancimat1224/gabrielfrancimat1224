@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--> "My name is Gabriel Francimat and I'm studying at the UNIFOR university in Fortaleza, Ceará and I became a programmer,
+    mainly, out of curiosity to understand how the different languages work and
+    in which they are used and for having a great desire to learn them in addition to producing programs that
+    benefit people and facilitate their actions. About my programming knowledge I have a
+    great base in js (JavaScript), in Java I know the basics of object-oriented programming, in addition to python,
+    html and css which I already did some web development projects in college."
