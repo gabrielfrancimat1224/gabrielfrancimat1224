@@ -1,22 +1,21 @@
 ### Whats's up 👋
+##    
+<div>
+  <a href="https://github.com/gabrielfrancimat1224">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfrancimat1224&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfrancimat1224&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<!--
-**gabrielfrancimat1224/gabrielfrancimat1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+<img align="center" alt="Gabriel-Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Gabriel-JavaScript" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Gabriel-HTML" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="Gabriel-CSS" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="Gabriel-Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---> "My name is Gabriel Francimat and I'm studying at the UNIFOR university in Fortaleza, Ceará and I became a programmer,
-    mainly, out of curiosity to understand how the different languages work and
-    in which they are used and for having a great desire to learn them in addition to producing programs that
-    benefit people and facilitate their actions. About my programming knowledge I have a
-    great base in js (JavaScript), in Java I know the basics of object-oriented programming, in addition to python,
-    html and css which I already did some web development projects in college."
+##
+    
+<div>
+  <a href="https://www.linkedin.com/in/mauricio-alcantara-7a308223a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
